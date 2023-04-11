@@ -11,3 +11,6 @@ A repository for collecting all Research Software Engineering related papers in 
 - *D. S. Katz*, *K. McHenry*, *C. Reinking* and *R. Haines*, **"Research Software Development & Management in Universities: Case Studies from Manchester's RSDS Group, Illinois' NCSA, and Notre Dame's CRC,"** 2019 IEEE/ACM 14th International Workshop on Software Engineering for Science (SE4Science), Montreal, QC, Canada, 2019, pp. 17-24, doi: [10.1109/SE4Science.2019.00009](https://doi.org/10.1109/SE4Science.2019.00009).
 - *M. Rosado de Souza*, *R. Haines*, *M. Vigo* and *C. Jay*, **"What Makes Research Software Sustainable? An Interview Study with Research Software Engineers,"** 2019 IEEE/ACM 12th International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE), Montreal, QC, Canada, 2019, pp. 135-138, doi: [10.1109/CHASE.2019.00039](https://doi.org/10.1109/CHASE.2019.00039).
 
+## Zotero:
+
+These papers are also documented in a Zotero group: [RSEng-papers](https://www.zotero.org/groups/5023353/rseng-papers)
